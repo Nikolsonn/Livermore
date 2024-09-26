@@ -1,2 +1,2 @@
 # Livermore
-Student telegram mini app
+RTU student project based on telegram mini app. 
